@@ -27,9 +27,8 @@ public class Register_Login {
             Register();
             MainMenu();
         }
-        else {
+        else if (choice.equals("2")){
             Login();
-
         }
 
     }
