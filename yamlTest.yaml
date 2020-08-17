@@ -1,15 +1,15 @@
 ---
 Business: Bakery
-	Name of Business: "Harry's 100% Delicious Gluten-Free Baked Treats"
-	Owner:
- 		- name: Harry
-		salary: "£154,000"
-	Employees:
-		- name: Tom
-		role: Baker
-	  	Salary: "£21,000"
-		- name: Dick
-	  	role: Baker
-	  	salary: "£21,000"
+  Name of Business: "Harry's 100% Delicious Gluten-Free Baked Treats"
+   Owner:
+    - name: Harry
+      salary: "£154,000"
+   Employees:
+    - name: Tom
+      role: Baker
+      Salary: "£21,000"
+    - name: Dick
+      role: Baker
+      salary: "£21,000"
 ...
 
